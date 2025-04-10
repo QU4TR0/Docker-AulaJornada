@@ -1,0 +1,7 @@
+{
+  "id": 11,
+  "produto": "string",
+  "categoria": "string",
+  "preco": 0,
+  "quantidade_vendida": 0
+}
