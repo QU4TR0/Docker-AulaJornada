@@ -1,7 +1,8 @@
-# Docker-AulaJornada
+# Aula sobre Docker - Jornada de Dados
 Este repositório são arquivos de estudo desenvolvidos na aula da jornada de Dados sobre Docker. Foram realizados 4 exemplos de containerização e os mesmos estão contemplados abaixo:
 
-## [Exemplo 1](https://github.com/QU4TR0/Docker-AulaJornada/Exemplo_1)
+## [Exemplo 1](https://github.com/QU4TR0/Docker-AulaJornada/tree/main/Exemplo_1)
+
 Criar arquivo com dependências
 ```bash
 # Criar o arquivo requirements.txt
@@ -30,7 +31,8 @@ Benefícios neste exemplo:
 - Ambiente isolado com versões específicas das bibliotecas
 
 
-## [Exemplo 2](https://github.com/QU4TR0/Docker-AulaJornada/Exemplo_2)
+## [Exemplo 2](https://github.com/QU4TR0/Docker-AulaJornada/tree/main/Exemplo_2)
+
 Criar arquivo com dependências
 
 ```bash
@@ -64,8 +66,9 @@ Benefícios neste exemplo:
 - Isolamento de dependências e versões específicas
 - Fácil implantação em qualquer ambiente que tenha Docker
 
-## [Exemplo 3](https://github.com/QU4TR0/Docker-AulaJornada/Exemplo_3)
-[Comandos Docker](https://github.com/QU4TR0/Docker-AulaJornada/Exemplo_3/ComandosDocker.md)
+## [Exemplo 3](https://github.com/QU4TR0/Docker-AulaJornada/tree/main/Exemplo_3)
+
+[Comandos Docker](https://github.com/QU4TR0/Docker-AulaJornada/tree/main/Exemplo_3/ComandosDocker.md)
 
 Benefícios neste exemplo:
 
@@ -75,8 +78,8 @@ Benefícios neste exemplo:
 - Fácil backup e restauração
 - Possibilidade de executar múltiplas versões do PostgreSQL no mesmo sistema
 
-## [Exemplo 4](https://github.com/QU4TR0/Docker-AulaJornada/Exemplo_4)
-[Comandos](https://github.com/QU4TR0/Docker-AulaJornada/Exemplo_4/Comandos.md)
+## [Exemplo 4](https://github.com/QU4TR0/Docker-AulaJornada/tree/main/Exemplo_4)
+[Comandos](https://github.com/QU4TR0/Docker-AulaJornada/tree/main/Exemplo_4/Comandos.md)
 
 ### Benefícios neste exemplo:
 
